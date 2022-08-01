@@ -32,10 +32,11 @@
     /* background-image: url(https://i.imgur.com/mxewuIi.png); */
     /* background-image: rgba(0, 0, 0, 0.5) url(cover.png); */
     background-image:url(hero-2-cover.jpg);
+    /* background-image: rgba( 0, 0, 0, 0.5); */
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.5)); */
     background-position: center;
-    background-size: cover;
 
+    background-size: cover;
 }
 
 .main{
